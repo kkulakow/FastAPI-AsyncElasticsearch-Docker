@@ -22,5 +22,5 @@
 <h2>Try it in action</h2><br>
 <li>Fill database with data from a test csv file ---> <a href="http://localhost:8000/docs#/DB/fillingdb_fillingdb_post"><strong>[POST]</strong> /fillingdb</a></li>
 <li>Fill Elastic with data from database ---> <a href="http://localhost:8000/docs#/Elasticsearch/filling_fillingES_post"><strong>[POST]</strong> /fillingES</a></li>
-<li>Get document by keword ---> <a href="http://localhost:8000/docs#/Elasticsearch/get_elastic_get__get"><strong>[GET]</strong> /elastic/get/</a></li>
+<li>Get document by keyword ---> <a href="http://localhost:8000/docs#/Elasticsearch/get_elastic_get__get"><strong>[GET]</strong> /elastic/get/</a></li>
 <li>Delete document by id ---> <a href="http://localhost:8000/docs#/Delete%20from%20ES%20%26%20DB/delete_delete__id__delete"><strong>[DELETE]</strong> /elastic/get/</a></li>
